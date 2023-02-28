@@ -14,17 +14,3 @@
     }
   }
 }
-
-const randomNames = []
- 
-// Create an array of 100 random names
-for (let i = 0; i < 100; i++) {
-  randomNames.push(fake.name.firstName())
-})
- 
-JSON.stringify({
-  User: {
-    // Mockend will use firstNames provided by FakerJS
-    name: { string: randomNames }
-  }
-})
