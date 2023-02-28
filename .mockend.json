@@ -9,6 +9,8 @@
     "color": {
       "regexp": "#[0-9A-F]{6}"
     },
-    "author": {}
+    "author": {
+      "string": {}
+    }
   }
 }
