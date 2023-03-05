@@ -11,6 +11,9 @@
     },
     "author": {
       "string": {}
+    },
+    "description": {
+      "loremParagraphs": { "minLength": 200, "maxLength": 500 }
     }
   }
 }
